@@ -39,18 +39,41 @@ If you have any questions or issues, ask!
 
 3. Click on the `get content` link to start The Process.
 
-4. Click on the Star button to "star" your repo; this will make it much easier to get to it in the future. ![star the repo](./images/lab-00-star-repo.png)
+4. Click on the Star button to "star" your repo; this will make it much easier to get to it in the future. 
+
+    ![star the repo](./images/lab-00-star-repo.png)
 
 
 ### Step 02: Open the content in a Codespace
 
 **_Next up: create your own "mini-computer" to do your work._**
 
-1. Go to your lab-00 repo. (If you just finished step 01, you should be there already, but if you've gotten turned around, go back to your GitHub home page and choose the Stars tab.) ![getting to stars](./images/lab-00-getting-to-stars.png)
+1. Go to your lab-00 repo. (If you just finished step 01, you should be there already, but if you've gotten turned around, go back to your GitHub home page and choose the Stars tab.) 
 
-2. Click on the `<> Code` button ➀, then choose the Codespaces tab ➁, and finally select `Create codespace on main` ➂ ~![opening a codespace](./images/lab-00-opening-a-codespace.png)
+    ![getting to stars](./images/lab-00-getting-to-stars.png)
+
+2. Click on the `<> Code` button ➀, then choose the Codespaces tab ➁, and finally select `Create codespace on main` ➂ 
+
+    ![opening a codespace](./images/lab-00-opening-a-codespace.png)
+
+3. Wait. (When you first create a Codespace, it'll take a while...but subsequent uses will be a **lot** faster.)
+
+4. Feel somewhat underwhelmed by your new "computer": 
+
+    ![your first codespace](./images/lab-00-your-first-codespace.png)
 
 ### Step 03: Make a change to the content on that Codespace
+
+**_Let's change that `README.md` file, because it's pretty drab._**
+
+Edit the `README.md` by...
+1. ...selecting the Explorer icon ➀ ...
+2. ...clicking the file name in the Explorer pane ➁ (which will open up the file in an editing tab ➂), and then...
+3. ...typing some text in the editing area ➃. 
+
+    _Type whatever you want...famous quote, recipe for guacamole, movie recommendation....the possibilities are endless._
+
+    ![changing the readme](./images/lab-00-changing-the-readme.png)
 
 ### Step 04: Move the changes to someplace more permanent
 
