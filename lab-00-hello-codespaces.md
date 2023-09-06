@@ -18,7 +18,7 @@ It's used by some instructors (like me) to distribute lab and assignment content
 
 The steps below will introduce you to a workflow you will use with all labs - and most assignments - this semester.
 
-The sooner you get the hang of this workflow, the better - it's much more fun to actually learn how to solve problems with a programming language than to wrestle with plumbing.
+The sooner you get the hang of this workflow, the better.
 
 ## Do These Things
 
@@ -37,9 +37,9 @@ If you have any questions or issues, ask!
 
     _**pro tip:** You're going to go here a lot, so bookmark it._
 
-3. Click on the `get content` link to start The Process.
+3. Click on the `get content` link for this lab to start [The Process](#the-process). 
 
-4. Click on the Star button to "star" your repo; this will make it much easier to get to it in the future. 
+4. Once your repo appears on the screen, click on the Star button to "star" it; this will make it much easier to get to it in the future. 
 
     ![star the repo](./images/lab-00-star-repo.png)
 
@@ -52,11 +52,11 @@ If you have any questions or issues, ask!
 
     ![getting to stars](./images/lab-00-getting-to-stars.png)
 
-2. Click on the `<> Code` button ➀, then choose the Codespaces tab ➁, and finally select `Create codespace on main` ➂ 
+2. Click on the `<> Code` button ➀, then choose the Codespaces tab ➁, and finally click `Create codespace on main` ➂ 
 
     ![opening a codespace](./images/lab-00-opening-a-codespace.png)
 
-3. Wait. (When you first create a Codespace, it'll take a while...but subsequent uses will be a **lot** faster.)
+3. Wait. (When you first create a Codespace, it'll take a while...but subsequent uses of that Codespace will be a **lot** faster.)
 
 4. Feel somewhat underwhelmed by your new "computer": 
 
@@ -75,17 +75,52 @@ Edit the `README.md` by...
 
     ![changing the readme](./images/lab-00-changing-the-readme.png)
 
-### Step 04: Move the changes to someplace more permanent
+### Step 04: Move the changes to someplace your instructor can see
+
+**_You've changed the README on the "computer", but that doesn't help your instructor!_**
+
+If you want your instructor to look at your work (you do), then you need to "push" the files from your "mini-computer" to your repo. _Your instructor doesn't have access to your mini-computer, but they **do** have access to your repo!_
+
+1. Click on the `Source Control` icon ➀, then click on the `+` ➁ by the `README.md` file. This will...
+
+    ![staging the file](./images/lab-00-staging-a-file.png)
+
+2. ... move the file into the `Staged Changes` area ➀. Enter a brief, but useful message ➁ and click the `Commit` button ➂.
+
+    ![adding a message](./images/lab-00-adding-a-message.png)
+
+3. Click on `Sync Changes` ➀...
+
+    ![syncing changes](./images/lab-00-sync-changes.png)
+
+4. ...which pops up this ominous message that you can click `OK` or `OK, Don't Show Again`. 
+
+    ![scary message](./images/lab-00-scary-message.png)
+
+5. In a few moments, the great pushing will be done. Shrug.
 
 ### Step 05: Sanity check
+
+**_Let's make super-sure that your changes are visible to your instructor._**
+
+1. Go back to your repo. If you're a bit confused over where you are, go back to your GitHub home page and choose the Stars tab: 
+
+    ![getting to stars](./images/lab-00-getting-to-stars.png)
+
+2. You should see that the `README.md` file is being displayed with your message and that the change was pushed shortly ago:
+
+    ![checking your work](./images/lab-00-check-your-work.png)
+
+3. Mutter to yourself, "And I have to do this for _everything_?!?"
 
 ---
 
 ## The Process
 
+When you click on the `get content` link, there is quite a lot that goes on. It's not useful at this point to go into great detail about this, but here's a very high-level summary of this Process, without too much technical mumbo-jumbo:
 
----
-## Useful Odds & Ends
+1. A copy of a template folder with the files and sub-folders necessary for the lab is created on GitHub. The name will end with **your** GitHub username.
 
-- star your repos
-- seeing all your codespaces
+2. You are given permission to **read** and **write* to this copied folder. But that folder does **not** belong to you - it belongs to your instructor.
+
+We will use a special name for these "GitHub folders": **repo** (which is short for **repository**).
