@@ -117,7 +117,9 @@ If you want your instructor to look at your work (you do), then you need to "pus
 
 ## The Process
 
-When you click on the `get content` link, there is quite a lot that goes on. It's not useful at this point to go into great detail about this, but here's a very high-level summary of this Process, without too much technical mumbo-jumbo:
+When you click on the `get content` link, there is quite a lot that goes on behind the scenes!
+
+It's not useful at this point to go into great detail, but here's a very high-level summary of this Process, without the technical mumbo-jumbo:
 
 1. A copy of a template folder with the files and sub-folders necessary for the lab is created on GitHub. The name will end with **your** GitHub username.
 
