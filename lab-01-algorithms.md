@@ -46,6 +46,8 @@ Assume we're living in an alternate reality where the only currency are pointy r
 
 Using pseudocode, write a currency conversion algorithm that asks for the number of chickens and bills being received and outputs how many pointy rocks should be provided in exchange.
 
+**After you're done this exercise, push your work as you did in Step 4 of lab-00.  Use a helpful comment ('Complete exercise 1', for example.) Doing these pushes as you work - especially while you're coding - is a very important habit to get into.**
+
 #### exercise-02
 
 You have created a new animal, called a **Doggo**, that's like a dog but marginally smarter - smart enough to follow simple algorithms.
@@ -61,6 +63,8 @@ Using pseudocode, create an algorithm for a Doggo that would make it behave in t
 |              3              | ROLLOVER       |
 |              4              | BLOVIATE       |
 
+**After you're done this exercise, push your work.**
+
 #### exercise-03
 
 You have created a new animal, called a **Kitteh**, that's like a cat but...well, I'm not sure how intelligent cats are, because they play their cards pretty close to the chest. But I digress. Kittehs can understand algorithms for sure.
@@ -75,11 +79,9 @@ _NYAA at the human to gain its attention. If offered a treat of the "right" weig
 
 > Aside: I first encountered the words **Doggo** and **Kitteh** in the card game [Trash Pandas](https://gamewright.com/product/Trash-Pandas) by Gamewright Games.
 
-### Step 05: Push the work on your Codespace to the org repo
+**After you're done this exercise, push your work.**
 
-The process is the same as you did in Step 4 on the last lab.
-
-### Step 06: Confirm you pushed
+### Step 05: Confirm you pushed
 
 I'd suggest using the method provided in our [Boatload](https://docs.google.com/document/d/1m42bfAUVuybxIFOoW0vJ5ZyR-WOJWwCZ9KhP0iOCGOE/edit#bookmark=id.956mn4x49etk) document.
 
