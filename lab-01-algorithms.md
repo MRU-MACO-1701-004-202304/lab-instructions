@@ -40,6 +40,8 @@ Now you have a file to put stuff into. Let's put stuff into it.
 
 In `exercises.txt`, put your answers to the following exercises, labelled in a way that a rational human could find them.
 
+---
+
 #### exercise-01
 
 Assume we're living in an alternate reality where the only currency are pointy rocks, chickens (worth 11 pointy rocks), and 10-dollar bills (worth 2 chickens).
@@ -47,6 +49,8 @@ Assume we're living in an alternate reality where the only currency are pointy r
 Using pseudocode, write a currency conversion algorithm that asks for the number of chickens and bills being received and outputs how many pointy rocks should be provided in exchange.
 
 **After you're done this exercise, push your work as you did in Step 4 of lab-00.  Use a helpful comment ('Complete exercise 1', for example.) Doing these pushes as you work - especially while you're coding - is a very important habit to get into.**
+
+---
 
 #### exercise-02
 
@@ -64,6 +68,8 @@ Using pseudocode, create an algorithm for a Doggo that would make it behave in t
 |              4              | BLOVIATE       |
 
 **After you're done this exercise, push your work.**
+
+---
 
 #### exercise-03
 
@@ -87,6 +93,10 @@ I'd suggest using the method provided in our [Boatload](https://docs.google.com/
 
 
 ---
+  
+---
+
+
 
 # Want some more practice?
 
