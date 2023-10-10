@@ -90,7 +90,7 @@ The following programs do not work. See if you can find out why!
 
 #### buggy program 1
 
-This program _should_ greet a person between 1 and 10 times. It uses the `random` module to determine how many times (the use of the `random` module is not the part that is broken). Alas, this code is busted!
+This program _should_ greet a person between 1 and 10 times. It uses the `random` module to determine how many times (the use of the `random` module is not the part that is broken - but you should look up what `random.randint` does online). Alas, this code is busted!
 
 ```python
 import random
