@@ -51,7 +51,7 @@ As part of the same recipe app, we're going to add a new file named `cooking_tim
    - $area(d)$ is a function that calculates the area of a circle with a diameter $d$
    - $temp$ is the temperature in °F
 
-   You will have to define and implement an `area` function as well as `cake_time`! Import the `math` library so you can use `math.pi` in this function. 
+   You will have to define and implement an `area` function as well as `cake_time`! Import the `math` library so you can use `math.pi` in this function. (_Note from JP: I haven't gotten around to talking abou this yet, have I? Take a look here: https://www.datacamp.com/tutorial/modules-in-python#the-import-statement - just the "The Import Statement" section._)
    
    I also haven't shown you how to round up, so you may have to do some research on this. Make sure to cite any sources used.
 
