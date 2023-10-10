@@ -1,4 +1,4 @@
-# Laborial-10: Booleans
+# Lab-10: Booleans
 
 **This is not not going to be fun.**
 
