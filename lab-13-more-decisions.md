@@ -60,7 +60,9 @@ _Meal delivery service BypassTheCleaning has hired you to write their app. They 
 
 1. **Test** the program using the `test_free_delivery_selection_structure`, `test_constants`, and `test_formatting` automated tests in `test_lab13.py`. If you're not running green, determine why!
 
-## Bonus challenge
+---
+
+### Bonus challenge
 In Part 2, you wrote a program to check if a user gets free delivery based on their order amount. Now, BypassTheCleaning wants you to make sure that only users within **20 km** get free delivery. 
 
 1. Modify your `main` function to prompt the user for their delivery distance after getting the order amount.
