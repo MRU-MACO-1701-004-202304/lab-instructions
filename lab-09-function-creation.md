@@ -23,6 +23,16 @@ The focus of this lab will be on:
 
 You can do the following exercises in any order you wish. You will likely not be able to finish all of these in one lab sitting!
 
+### DO THIS FIRST
+
+There are automated tests in this Codespace...but they will not run properly until you've created the files and functions required by the test. Because of this, you should do the following before you begin:
+
+1. Temporarily change the name of the 3 test files to something that doesn't start with the word "test". For example:
+   1. `test_redactor.py` to `xtest_redactor.py`
+   2. `test_triangular_scoring.py` to `xtest_triangular_scoring.py`
+   3. `test_ability_score_generator.py` to `xtest_ability_score_generator.py`
+2. When you are ready to test your given exercise, change the name of the appropriate test file back to what it was. You should then be able to test as before. For example, if you think your redactor exercise is ready to be tested, change the test file back to `test_redactor.py`.
+
 ### Exercise: Re****or
 
 #### Preamble
@@ -66,13 +76,6 @@ Censorship is fun! Let's make an object that redacts things.
 
 - You'll need to look up how to do string replacements. Real Python has a [nice bit on it](https://realpython.com/replace-string-python/#how-to-remove-or-replace-a-python-string-or-substring). Our textbook has a _bit_ about it as well.
 - You'll also need to find the length of the string to redact, since you need to replace those with a string of redaction symbols of the correct length. Fortunately, you know how to do that, right?
-
-#### Tests
-
-Your code is being tested in two ways:
-
-1. Does your `Redactor` have methods that behave as expected? We'll test that using the tests in `RedactorTests`, which calls that class' methods with a variety of inputs.
-1. Can you figure out how to use your class? We'll find out using `MainTests`, which makes sure that what appears in the console is what is expected.
 
 ---
 
