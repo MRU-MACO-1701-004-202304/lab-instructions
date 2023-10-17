@@ -182,12 +182,12 @@ Let's make a class that captures this common scoring mechanism.
 
 1. Create (and call!) a `main` function in your script file. In that `main`, reproduce the following table, using your `score` function. _Yes, this is much like what you did with the Incan Gold labs!_
 
-```
-Name   Dumplings   Score
-Anh    2           3
-Miko   6           15
-Olga   5           15
-```
+   ```
+   Name   Dumplings   Score
+   Anh    2           3
+   Miko   6           15
+   Olga   5           15
+   ```
 
 #### Hints & Suggestions
 
