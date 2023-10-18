@@ -182,6 +182,8 @@ Let's make a class that captures this common scoring mechanism.
 
 1. Create (and call!) a `main` function in your script file. In that `main`, reproduce the following table, using your `score` function. _Yes, this is much like what you did with the Incan Gold labs!_
 
+   **Warning**: Calling `main` in your script file will cause the automated tests to break, unfortunately. Once your happy that your table is printing out correctly, comment out the `main()` call, and things will work again.
+
    ```
    Name   Dumplings   Score
    Anh    2           3
