@@ -71,20 +71,20 @@ What test values would you use to ensure your algorithm is correct? Don't skip t
 1. Create a script in VS Code and add your code plus the following `main` to it. Does the script run as expected? Fix any issues you encounter!
 
 
-```python
-import random
+    ```python
+    import random
 
-# Add your roll_results() function here.
+    # Add your roll_results() function here.
 
-def main() -> None:
-    a = random.randint(1, 6)
-    b = random.randint(1, 6)
-    c = random.randint(1, 6)
-    result_str = roll_results(a, b, c)
-    print(f"You rolled {a}, {b} and {c}. {result_str}")
+    def main() -> None:
+        a = random.randint(1, 6)
+        b = random.randint(1, 6)
+        c = random.randint(1, 6)
+        result_str = roll_results(a, b, c)
+        print(f"You rolled {a}, {b} and {c}. {result_str}")
 
-main()
-```
+    main()
+    ```
 
 #### Exercise
 
