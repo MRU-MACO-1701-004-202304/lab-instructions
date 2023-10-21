@@ -51,6 +51,8 @@ print("The sum is", sum)
 3. Describe what the code is actually doing.
 4. Fix the code so that it actually sums the multiples of five between 5 and 50 (inclusive).
 
+---
+
 ### Part 2: Design some loops
 
 For each of the following, create and test an algorithm that solves the problem.
@@ -61,6 +63,8 @@ When you're convinced that your algorithm is sound, implement it using a Python 
 2. Create a modified version of the previous program that keeps reading integers until the user enters an empty string. After the empty string is read, the sum of the entered integers should be printed.
 3. Create a program that reads in words from the keyboard until a word containing an exclamation mark is entered, at which point it should print out how many words were entered **and** how many of those words had at least one vowel (aeiou).
 4. Create a modified version of the previous program; this time, report what the shortest word entered was. If there is a tie, the first word wins.
+
+---
 
 ### Extra tracing practice
 
