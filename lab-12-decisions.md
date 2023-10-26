@@ -59,8 +59,6 @@ What test values would you use to ensure your algorithm is correct? Don't skip t
 
     Use the following incomplete program to get you started:
     ```python
-    import random
-
     def roll_results(                              ) -> str:
         """
 
