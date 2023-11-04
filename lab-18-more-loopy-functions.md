@@ -1,4 +1,4 @@
-# Lab-17: More Loopy Functions
+# Lab-18: More Loopy Functions
 
 **The adventure continues...and continues...and continues....**
 
