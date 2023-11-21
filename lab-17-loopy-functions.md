@@ -24,7 +24,7 @@ For each, create a value-returning function with type hints. Each function shoul
 **Examples**
 
 Your function should return:
-- "0,1,2,3" if given `4` as input
+- "0,1,2,3,4" if given `4` as input
 - "0" if given `0` as input
 - "" if given `-3` as input
 
