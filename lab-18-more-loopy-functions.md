@@ -22,7 +22,7 @@ Gauges are limited in the sense that they can only display some maximum value, e
 
 Build an app in `the_gauge.py` that behaves as follows:
 
-1. It prompts the user for a **reading**: an integer >= 0. This reading will be validated (see Example 2).
+1. It prompts the user for a **reading**: an integer >= 0. This reading will be validated (see Example 2). You can use `isdigit()` or `isnumeric()` to help here.
 2. It displays the gauge, with a number of bars equal to the reading value entered. In addition, if the reading provided is >10 (see Example 4):
    1. Only 10 bars will be displayed, and
    2. An asterisk will be displayed next to the reading value.
