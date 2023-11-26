@@ -87,4 +87,6 @@ In `ex_2.py`, design a **function** that takes your course list as an argument a
 
 Assume there will always be a single space between the subject (COMP, GNED, etc.) and the course number.
 
+Do **not* use Python's `max()` function here - practice those loop skills and do things "manually".
+
 Test your function with a variety of assertions.
