@@ -13,6 +13,8 @@ I think they get progressively more challenging.
 
 For each, create a value-returning function with type hints. Each function should use a `while` loop to get the task done.
 
+For each, test that your function works as expected. Practice using `assert` to do this.
+
 ### Exercise: Comma-separated Count Up
 
 **Inputs**: an integer upper bound.
